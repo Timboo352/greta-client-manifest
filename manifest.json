@@ -3,7 +3,7 @@
   "profiles": [
     {
       "id": "greta-smp",
-      "name": "Greta SMP",
+      "name": "TEST",
       "banner": "https://raw.githubusercontent.com/Timboo352/greta-client-manifest/refs/heads/main/banners/pack-png.jpg",
       "description": "Das mitm Schloss und so",
       "minecraftVersion": "1.21.1",
