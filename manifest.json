@@ -1,10 +1,10 @@
 {
-  "manifestVersion": 1,
+  "manifestVersion": 2,
   "profiles": [
     {
       "id": "greta-smp",
       "name": "Greta SMP",
-      "banner": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.kibrispdr.org%2Fdata%2F725%2Fminecraft-pack-png-15.jpg"
+      "banner": "https://raw.githubusercontent.com/Timboo352/greta-client-manifest/refs/heads/main/banners/pack-png.jpg"
       "description": "Das offizielle Greta SMP Modpack",
       "minecraftVersion": "1.21.1",
       "modloader": "fabric",
