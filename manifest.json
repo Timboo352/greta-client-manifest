@@ -51,6 +51,20 @@
           "versionId": "HpMb5wGb"
         }
       ]
+    },
+    {
+      "id": "real-greta-smp",
+      "name": "Greta SMP",
+      "description": "Das mitm Schloss und so\nSponsored by Communism+",
+      "banner": "",
+      "minecraftVersion": "1.21.3",
+      "modloader": "fabric",
+      "modloaderVersion": "0.18.4",
+      "server": {
+        "name": "Greta SMP",
+        "address": "their-josh.gl.joinmc.link"
+      },
+      "mods": []
     }
   ]
 }
