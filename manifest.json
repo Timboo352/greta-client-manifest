@@ -4,7 +4,7 @@
     {
       "id": "real-greta-smp",
       "name": "Greta SMP",
-      "description": "Das mitm Schloss und so\nSponsored by Communism+",
+      "description": "Sponsored by Communism+",
       "banner": "https://raw.githubusercontent.com/Timboo352/greta-client-manifest/refs/heads/main/banners/pack-png.jpg",
       "minecraftVersion": "1.21.3",
       "modloader": "fabric",
