@@ -243,6 +243,20 @@
           "versionId": "dXw74N2Q"
         }
       ]
+    },
+    {
+      "id": "hjkjgghk",
+      "name": "hjkjgghk",
+      "description": "kbbgkj",
+      "banner": "",
+      "minecraftVersion": "1.21.1",
+      "modloader": "fabric",
+      "modloaderVersion": "0.16.9",
+      "server": {
+        "name": "khgjgkjgkj",
+        "address": "test.ch"
+      },
+      "mods": []
     }
   ]
 }
