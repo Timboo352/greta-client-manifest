@@ -4,7 +4,7 @@
     {
       "id": "greta-smp",
       "name": "Greta SMP",
-      "banner": "https://raw.githubusercontent.com/Timboo352/greta-client-manifest/refs/heads/main/banners/pack-png.jpg"
+      "banner": "https://raw.githubusercontent.com/Timboo352/greta-client-manifest/refs/heads/main/banners/pack-png.jpg",
       "description": "Das offizielle Greta SMP Modpack",
       "minecraftVersion": "1.21.1",
       "modloader": "fabric",
