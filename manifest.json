@@ -64,7 +64,242 @@
         "name": "Greta SMP",
         "address": "their-josh.gl.joinmc.link"
       },
-      "mods": []
+      "mods": [
+        {
+          "name": "ForgeConfigAPIPort v21.3.5",
+          "source": "modrinth",
+          "projectId": "ohNO6lps",
+          "versionId": "NYPJWyPs"
+        },
+        {
+          "name": "Resourcify (1.21.4 fabric)",
+          "source": "modrinth",
+          "projectId": "RLzHAoZe",
+          "versionId": "OmwIUwAF"
+        },
+        {
+          "name": "geckolib fabric",
+          "source": "modrinth",
+          "projectId": "8BmcQJ2H",
+          "versionId": "7fKNdJBM"
+        },
+        {
+          "name": "lootr fabric",
+          "source": "modrinth",
+          "projectId": "EltpO5cN",
+          "versionId": "JG1WQ9lU"
+        },
+        {
+          "name": "journeymap fabric",
+          "source": "modrinth",
+          "projectId": "lfHFW1mp",
+          "versionId": "692cmxUp"
+        },
+        {
+          "name": "waystones fabric",
+          "source": "modrinth",
+          "projectId": "LOpKHB2A",
+          "versionId": "Q54cy1iA"
+        },
+        {
+          "name": "Clumps fabric",
+          "source": "modrinth",
+          "projectId": "Wnxd13zP",
+          "versionId": "pnjn9POx"
+        },
+        {
+          "name": "graves",
+          "source": "modrinth",
+          "projectId": "yn9u3ypm",
+          "versionId": "fS2NJyqY"
+        },
+        {
+          "name": "entityculling fabric",
+          "source": "modrinth",
+          "projectId": "NNAgCjsB",
+          "versionId": "WCxucCvf"
+        },
+        {
+          "name": "modmenu",
+          "source": "modrinth",
+          "projectId": "mOgUt4GM",
+          "versionId": "4xPSbh0l"
+        },
+        {
+          "name": "RoughlyEnoughItems",
+          "source": "modrinth",
+          "projectId": "nfn13YXA",
+          "versionId": "fdNZHMkH"
+        },
+        {
+          "name": "balm fabric",
+          "source": "modrinth",
+          "projectId": "MBAkmtvl",
+          "versionId": "qlXJq5D1"
+        },
+        {
+          "name": "PuzzlesLib v21.3.25",
+          "source": "modrinth",
+          "projectId": "QAGBst4M",
+          "versionId": "vMKyNIOg"
+        },
+        {
+          "name": "cicada lib",
+          "source": "modrinth",
+          "projectId": "IwCkru1D",
+          "versionId": "yEeBo4X0"
+        },
+        {
+          "name": "appleskin fabric mc1.21.3",
+          "source": "modrinth",
+          "projectId": "EsAfCjCV",
+          "versionId": "cHQjeYVS"
+        },
+        {
+          "name": "do_a_barrel_roll fabric",
+          "source": "modrinth",
+          "projectId": "6FtRfnLg",
+          "versionId": "oadY9xkk"
+        },
+        {
+          "name": "placeholder api",
+          "source": "modrinth",
+          "projectId": "eXts2L7r",
+          "versionId": "eeN3FuMY"
+        },
+        {
+          "name": "zoomify",
+          "source": "modrinth",
+          "projectId": "w7ThoJFB",
+          "versionId": "r2ewk22o"
+        },
+        {
+          "name": "architectury",
+          "source": "modrinth",
+          "projectId": "lhGA9TYQ",
+          "versionId": "i3y5Sm14"
+        },
+        {
+          "name": "continuity",
+          "source": "modrinth",
+          "projectId": "1IjD5062",
+          "versionId": "kwuHTVHC"
+        },
+        {
+          "name": "replaymod",
+          "source": "modrinth",
+          "projectId": "Nv2fQJo5",
+          "versionId": "kRKLQ6SQ"
+        },
+        {
+          "name": "clientsort fabric",
+          "source": "modrinth",
+          "projectId": "K0AkAin6",
+          "versionId": "9H7TwUDO"
+        },
+        {
+          "name": "PresenceFootsteps",
+          "source": "modrinth",
+          "projectId": "rcTfTZr3",
+          "versionId": "olFEgaep"
+        },
+        {
+          "name": "leafmealone",
+          "source": "modrinth",
+          "projectId": "ppMUvsIg",
+          "versionId": "NjQdo38w"
+        },
+        {
+          "name": "fabric language kotlin",
+          "source": "modrinth",
+          "projectId": "Ha28R6CL",
+          "versionId": "ViT4gucI"
+        },
+        {
+          "name": "cullleaves fabric",
+          "source": "modrinth",
+          "projectId": "GNxdLCoP",
+          "versionId": "JnCn3KSm"
+        },
+        {
+          "name": "rightclickharvest fabric",
+          "source": "modrinth",
+          "projectId": "Cnejf5xM",
+          "versionId": "rr78jydH"
+        },
+        {
+          "name": "VisualWorkbench v21.3.0",
+          "source": "modrinth",
+          "projectId": "kfqD1JRw",
+          "versionId": "itM6w7NL"
+        },
+        {
+          "name": "fabric api",
+          "source": "modrinth",
+          "projectId": "P7dR8mSH",
+          "versionId": "wLq4rGsB"
+        },
+        {
+          "name": "polymer bundled",
+          "source": "modrinth",
+          "projectId": "xGdtZczs",
+          "versionId": "a56gjnCk"
+        },
+        {
+          "name": "lambdynamiclights",
+          "source": "modrinth",
+          "projectId": "yBW8D80W",
+          "versionId": "93jUghXD"
+        },
+        {
+          "name": "lithium fabric",
+          "source": "modrinth",
+          "projectId": "gvQqBUqZ",
+          "versionId": "W0Cc7ZVd"
+        },
+        {
+          "name": "sodium fabric",
+          "source": "modrinth",
+          "projectId": "AANobbMI",
+          "versionId": "rLBgU2jc"
+        },
+        {
+          "name": "jamlib fabric",
+          "source": "modrinth",
+          "projectId": "IYY9Siz8",
+          "versionId": "k2QzJCVr"
+        },
+        {
+          "name": "tpa",
+          "source": "modrinth",
+          "projectId": "e9LW4Key",
+          "versionId": "FieLec2S"
+        },
+        {
+          "name": "cloth config",
+          "source": "modrinth",
+          "projectId": "9s6osm5g",
+          "versionId": "FgXq8Sfo"
+        },
+        {
+          "name": "smoothswapping",
+          "source": "modrinth",
+          "projectId": "ydZic5r4",
+          "versionId": "5lFRnDKp"
+        },
+        {
+          "name": "yet_another_config_lib_v3",
+          "source": "modrinth",
+          "projectId": "1eAoo2KR",
+          "versionId": "2lffyjXX"
+        },
+        {
+          "name": "spawnanimations v1.11.3 mc1.17",
+          "source": "modrinth",
+          "projectId": "zrzYrlm0",
+          "versionId": "dXw74N2Q"
+        }
+      ]
     }
   ]
 }
