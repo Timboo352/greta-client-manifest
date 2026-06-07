@@ -2,57 +2,6 @@
   "manifestVersion": 2,
   "profiles": [
     {
-      "id": "greta-smp",
-      "name": "TEST",
-      "banner": "https://raw.githubusercontent.com/Timboo352/greta-client-manifest/refs/heads/main/banners/pack-png.jpg",
-      "description": "Das mitm Schloss und so",
-      "minecraftVersion": "1.21.1",
-      "modloader": "fabric",
-      "modloaderVersion": "0.16.9",
-      "server": {
-        "name": "Greta SMP",
-        "address": "deine-ip-oder-domain:25565"
-      },
-      "mods": [
-        {
-          "name": "Fabric API",
-          "source": "modrinth",
-          "projectId": "P7dR8mSH",
-          "versionId": "Lwt6YYHL"
-        },
-        {
-          "name": "Sodium",
-          "source": "modrinth",
-          "projectId": "AANobbMI",
-          "versionId": "uheoPKxU"
-        },
-        {
-          "name": "Lithium",
-          "source": "modrinth",
-          "projectId": "gvQqBUqZ",
-          "versionId": "XQJtuOTA"
-        },
-        {
-          "name": "Iris Shaders",
-          "source": "modrinth",
-          "projectId": "YL57xq9U",
-          "versionId": "zsoi0dso"
-        },
-        {
-          "name": "Mod Menu",
-          "source": "modrinth",
-          "projectId": "mOgUt4GM",
-          "versionId": "v6Xx3fbU"
-        },
-        {
-          "name": "Cloth Config API",
-          "source": "modrinth",
-          "projectId": "9s6osm5g",
-          "versionId": "HpMb5wGb"
-        }
-      ]
-    },
-    {
       "id": "real-greta-smp",
       "name": "Greta SMP",
       "description": "Das mitm Schloss und so\nSponsored by Communism+",
